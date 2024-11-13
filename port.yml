@@ -8,5 +8,5 @@
     url: https://example.com
     language: string
     slack: https://nvidia.slack.com/amanda_test
-    tier: Mission Critical
+    tier: Not Mission Critical
   relations: {}
